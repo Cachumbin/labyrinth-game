@@ -1,2 +1,2 @@
 # labyrinth-game
-A program to use canvas and local storage
+A game tu practice with js canvas and local storage
